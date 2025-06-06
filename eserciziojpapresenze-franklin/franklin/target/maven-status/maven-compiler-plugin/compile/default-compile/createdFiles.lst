@@ -1,0 +1,5 @@
+com\corsojava\jpademo\StudenteRepository.class
+com\corsojava\jpademo\Studente.class
+com\corsojava\jpademo\StudenteController.class
+com\corsojava\jpademo\StudenteService.class
+com\corsojava\jpademo\JpademoApplication.class
